@@ -16,4 +16,4 @@ This project analyzes sales performance using Microsoft Excel.
 - Regional Analysis
 
 ## Dashboard Preview
-(Add screenshot here)
+(DASHBOARD.png)
